@@ -1,0 +1,5 @@
+photo-download-site/
+│── index.html
+│── styles.css
+│── script.js
+│── images/ (Folder containing your photos)
